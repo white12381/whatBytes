@@ -33,7 +33,7 @@ const Statistics = () => {
       <div className="statistics">
         <div className="circle relative">
           <Image
-            src={"/asset/images/mark.JPG"}
+            src={"/asset/images/mark.jpg"}
             className="icon"
             width={10}
             height={10}
